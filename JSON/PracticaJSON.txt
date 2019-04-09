@@ -1,0 +1,30 @@
+{
+  
+  
+	"Nombre": "Diego",
+      
+  "Apellido": "Ponce",
+
+        "Legajo": 67096,
+      
+  "DNI": 39069812,
+
+  	"FechaNacimiento": "19950723",
+
+	"Carrera": "Ingenieria en Sistemas de Informacion",
+  
+  	"Materias Regulares": [
+
+    		{"Nombre Materia": "PAV", "Año De Regularidad": "2017"},
+
+    		{"Nombre Materia": "AED", "Año De Regularidad": "2014"},
+
+    		{"Nombre Materia": "PAV II", "Año De Regularidad": "2017"},
+
+   	 	{"Nombre Materia": "PPR", "Año De Regularidad": "2015"},
+
+    		{"Nombre Materia": "ACO", "Año De Regularidad": "2014"}
+ 
+   ]
+
+ }
