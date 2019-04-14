@@ -1,0 +1,1 @@
+Comandos necesarios sacados de: https://www.adictosaltrabajo.com/2005/09/09/security-ssl-keytool/ (4.3 Generar el CSR)
